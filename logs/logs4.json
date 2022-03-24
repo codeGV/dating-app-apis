@@ -1,0 +1,231 @@
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T17:59:34.623Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T17:59:34.624Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T17:59:34.853Z"}
+{"took":0.002,"level":"silly","message":"[server:settings/express/configure] took: 0.002 second(s)","timestamp":"2020-11-16T17:59:34.855Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T17:59:39.635Z"}
+{"took":0.004,"level":"silly","message":"[server:settings:routes:configure] took: 0.004 second(s)","timestamp":"2020-11-16T17:59:39.638Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T17:59:39.677Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T17:59:39.677Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T17:59:39.681Z"}
+{"took":0.039,"level":"silly","message":"[server:app:boot] took: 0.039 second(s)","timestamp":"2020-11-16T17:59:39.716Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T17:59:39.726Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T18:02:47.440Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T18:02:47.442Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T18:02:47.729Z"}
+{"took":0.002,"level":"silly","message":"[server:settings/express/configure] took: 0.002 second(s)","timestamp":"2020-11-16T18:02:47.731Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T18:02:52.314Z"}
+{"took":0.004,"level":"silly","message":"[server:settings:routes:configure] took: 0.004 second(s)","timestamp":"2020-11-16T18:02:52.317Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T18:02:52.354Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T18:02:52.354Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T18:02:52.358Z"}
+{"took":0.039,"level":"silly","message":"[server:app:boot] took: 0.039 second(s)","timestamp":"2020-11-16T18:02:52.393Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T18:02:52.403Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T18:03:56.013Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T18:03:56.015Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T18:03:56.362Z"}
+{"took":0.003,"level":"silly","message":"[server:settings/express/configure] took: 0.003 second(s)","timestamp":"2020-11-16T18:03:56.365Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T18:04:01.130Z"}
+{"took":0.004,"level":"silly","message":"[server:settings:routes:configure] took: 0.004 second(s)","timestamp":"2020-11-16T18:04:01.133Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T18:04:01.169Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T18:04:01.169Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T18:04:01.173Z"}
+{"took":0.037,"level":"silly","message":"[server:app:boot] took: 0.037 second(s)","timestamp":"2020-11-16T18:04:01.207Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T18:04:01.216Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T18:04:30.279Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T18:04:30.280Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T18:04:30.538Z"}
+{"took":0.002,"level":"silly","message":"[server:settings/express/configure] took: 0.002 second(s)","timestamp":"2020-11-16T18:04:30.540Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T18:04:35.364Z"}
+{"took":0.005,"level":"silly","message":"[server:settings:routes:configure] took: 0.005 second(s)","timestamp":"2020-11-16T18:04:35.368Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T18:04:35.410Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T18:04:35.410Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T18:04:35.415Z"}
+{"took":0.045,"level":"silly","message":"[server:app:boot] took: 0.045 second(s)","timestamp":"2020-11-16T18:04:35.455Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T18:04:35.466Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T18:06:45.712Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T18:06:45.712Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T18:06:45.967Z"}
+{"took":0.002,"level":"silly","message":"[server:settings/express/configure] took: 0.002 second(s)","timestamp":"2020-11-16T18:06:45.969Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T18:06:50.533Z"}
+{"took":0.005,"level":"silly","message":"[server:settings:routes:configure] took: 0.005 second(s)","timestamp":"2020-11-16T18:06:50.537Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T18:06:50.580Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T18:06:50.580Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T18:06:50.585Z"}
+{"took":0.046,"level":"silly","message":"[server:app:boot] took: 0.046 second(s)","timestamp":"2020-11-16T18:06:50.626Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T18:06:50.638Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T18:12:47.155Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T18:12:47.156Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T18:12:47.404Z"}
+{"took":0.002,"level":"silly","message":"[server:settings/express/configure] took: 0.002 second(s)","timestamp":"2020-11-16T18:12:47.406Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T18:12:51.765Z"}
+{"took":0.004,"level":"silly","message":"[server:settings:routes:configure] took: 0.004 second(s)","timestamp":"2020-11-16T18:12:51.768Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T18:12:51.805Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T18:12:51.805Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T18:12:51.808Z"}
+{"took":0.037,"level":"silly","message":"[server:app:boot] took: 0.037 second(s)","timestamp":"2020-11-16T18:12:51.842Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T18:12:51.852Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T18:31:22.872Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T18:31:22.872Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T18:31:23.146Z"}
+{"took":0.002,"level":"silly","message":"[server:settings/express/configure] took: 0.002 second(s)","timestamp":"2020-11-16T18:31:23.148Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T18:31:28.058Z"}
+{"took":0.003,"level":"silly","message":"[server:settings:routes:configure] took: 0.003 second(s)","timestamp":"2020-11-16T18:31:28.062Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T18:31:28.097Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T18:31:28.097Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T18:31:28.101Z"}
+{"took":0.039,"level":"silly","message":"[server:app:boot] took: 0.039 second(s)","timestamp":"2020-11-16T18:31:28.136Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T18:31:28.145Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T18:31:53.348Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T18:31:53.349Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T18:31:53.623Z"}
+{"took":0.002,"level":"silly","message":"[server:settings/express/configure] took: 0.002 second(s)","timestamp":"2020-11-16T18:31:53.625Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T18:31:58.042Z"}
+{"took":0.004,"level":"silly","message":"[server:settings:routes:configure] took: 0.004 second(s)","timestamp":"2020-11-16T18:31:58.045Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T18:31:58.083Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T18:31:58.083Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T18:31:58.087Z"}
+{"took":0.04,"level":"silly","message":"[server:app:boot] took: 0.04 second(s)","timestamp":"2020-11-16T18:31:58.123Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T18:31:58.133Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T18:47:53.230Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T18:47:53.231Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T18:47:53.472Z"}
+{"took":0.002,"level":"silly","message":"[server:settings/express/configure] took: 0.002 second(s)","timestamp":"2020-11-16T18:47:53.474Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T18:47:57.961Z"}
+{"took":0.004,"level":"silly","message":"[server:settings:routes:configure] took: 0.004 second(s)","timestamp":"2020-11-16T18:47:57.964Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T18:47:58.000Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T18:47:58.001Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T18:47:58.004Z"}
+{"took":0.038,"level":"silly","message":"[server:app:boot] took: 0.038 second(s)","timestamp":"2020-11-16T18:47:58.038Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T18:47:58.048Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T18:51:32.631Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T18:51:32.632Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T18:51:32.854Z"}
+{"took":0.002,"level":"silly","message":"[server:settings/express/configure] took: 0.002 second(s)","timestamp":"2020-11-16T18:51:32.856Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T18:51:37.158Z"}
+{"took":0.004,"level":"silly","message":"[server:settings:routes:configure] took: 0.004 second(s)","timestamp":"2020-11-16T18:51:37.161Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T18:51:37.194Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T18:51:37.194Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T18:51:37.198Z"}
+{"took":0.036,"level":"silly","message":"[server:app:boot] took: 0.036 second(s)","timestamp":"2020-11-16T18:51:37.230Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T18:51:37.239Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T18:58:25.671Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T18:58:25.672Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T18:58:25.934Z"}
+{"took":0.002,"level":"silly","message":"[server:settings/express/configure] took: 0.002 second(s)","timestamp":"2020-11-16T18:58:25.936Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T18:58:30.679Z"}
+{"took":0.006,"level":"silly","message":"[server:settings:routes:configure] took: 0.006 second(s)","timestamp":"2020-11-16T18:58:30.684Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T18:58:30.739Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T18:58:30.739Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T18:58:30.744Z"}
+{"took":0.048,"level":"silly","message":"[server:app:boot] took: 0.048 second(s)","timestamp":"2020-11-16T18:58:30.787Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T18:58:30.803Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T19:08:25.716Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T19:08:25.717Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T19:08:25.954Z"}
+{"took":0.002,"level":"silly","message":"[server:settings/express/configure] took: 0.002 second(s)","timestamp":"2020-11-16T19:08:25.956Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T19:08:30.415Z"}
+{"took":0.004,"level":"silly","message":"[server:settings:routes:configure] took: 0.004 second(s)","timestamp":"2020-11-16T19:08:30.418Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T19:08:30.453Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T19:08:30.453Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T19:08:30.456Z"}
+{"took":0.035,"level":"silly","message":"[server:app:boot] took: 0.035 second(s)","timestamp":"2020-11-16T19:08:30.488Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T19:08:30.499Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T19:10:07.554Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T19:10:07.555Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T19:10:07.791Z"}
+{"took":0.002,"level":"silly","message":"[server:settings/express/configure] took: 0.002 second(s)","timestamp":"2020-11-16T19:10:07.793Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T19:10:12.281Z"}
+{"took":0.004,"level":"silly","message":"[server:settings:routes:configure] took: 0.004 second(s)","timestamp":"2020-11-16T19:10:12.284Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T19:10:12.319Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T19:10:12.319Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T19:10:12.322Z"}
+{"took":0.036,"level":"silly","message":"[server:app:boot] took: 0.036 second(s)","timestamp":"2020-11-16T19:10:12.355Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T19:10:12.365Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T19:10:46.647Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T19:10:46.648Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T19:10:46.885Z"}
+{"took":0.003,"level":"silly","message":"[server:settings/express/configure] took: 0.003 second(s)","timestamp":"2020-11-16T19:10:46.888Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T19:10:51.849Z"}
+{"took":0.004,"level":"silly","message":"[server:settings:routes:configure] took: 0.004 second(s)","timestamp":"2020-11-16T19:10:51.852Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T19:10:51.885Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T19:10:51.885Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T19:10:51.888Z"}
+{"took":0.035,"level":"silly","message":"[server:app:boot] took: 0.035 second(s)","timestamp":"2020-11-16T19:10:51.920Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T19:10:51.930Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T19:13:16.281Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T19:13:16.282Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T19:13:16.585Z"}
+{"took":0.002,"level":"silly","message":"[server:settings/express/configure] took: 0.002 second(s)","timestamp":"2020-11-16T19:13:16.587Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T19:13:21.364Z"}
+{"took":0.004,"level":"silly","message":"[server:settings:routes:configure] took: 0.004 second(s)","timestamp":"2020-11-16T19:13:21.367Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T19:13:21.401Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T19:13:21.402Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T19:13:21.405Z"}
+{"took":0.035,"level":"silly","message":"[server:app:boot] took: 0.035 second(s)","timestamp":"2020-11-16T19:13:21.436Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T19:13:21.446Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T19:20:35.071Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T19:20:35.072Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T19:20:35.320Z"}
+{"took":0.002,"level":"silly","message":"[server:settings/express/configure] took: 0.002 second(s)","timestamp":"2020-11-16T19:20:35.322Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T19:20:39.882Z"}
+{"took":0.004,"level":"silly","message":"[server:settings:routes:configure] took: 0.004 second(s)","timestamp":"2020-11-16T19:20:39.885Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T19:20:39.922Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T19:20:39.922Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T19:20:39.926Z"}
+{"took":0.037,"level":"silly","message":"[server:app:boot] took: 0.037 second(s)","timestamp":"2020-11-16T19:20:39.960Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T19:20:39.969Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T19:21:12.902Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T19:21:12.903Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T19:21:13.240Z"}
+{"took":0.003,"level":"silly","message":"[server:settings/express/configure] took: 0.003 second(s)","timestamp":"2020-11-16T19:21:13.243Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T19:21:17.997Z"}
+{"took":0.004,"level":"silly","message":"[server:settings:routes:configure] took: 0.004 second(s)","timestamp":"2020-11-16T19:21:18.000Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T19:21:18.035Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T19:21:18.035Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T19:21:18.039Z"}
+{"took":0.037,"level":"silly","message":"[server:app:boot] took: 0.037 second(s)","timestamp":"2020-11-16T19:21:18.073Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T19:21:18.084Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T19:27:38.601Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T19:27:38.602Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T19:27:38.917Z"}
+{"took":0.004,"level":"silly","message":"[server:settings/express/configure] took: 0.004 second(s)","timestamp":"2020-11-16T19:27:38.921Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T19:27:43.261Z"}
+{"took":0.004,"level":"silly","message":"[server:settings:routes:configure] took: 0.004 second(s)","timestamp":"2020-11-16T19:27:43.264Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T19:27:43.297Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T19:27:43.297Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T19:27:43.300Z"}
+{"took":0.034,"level":"silly","message":"[server:app:boot] took: 0.034 second(s)","timestamp":"2020-11-16T19:27:43.331Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T19:27:43.340Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T19:29:37.382Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T19:29:37.383Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T19:29:37.759Z"}
+{"took":0.003,"level":"silly","message":"[server:settings/express/configure] took: 0.003 second(s)","timestamp":"2020-11-16T19:29:37.763Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T19:29:42.612Z"}
+{"took":0.004,"level":"silly","message":"[server:settings:routes:configure] took: 0.004 second(s)","timestamp":"2020-11-16T19:29:42.615Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T19:29:42.649Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T19:29:42.649Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T19:29:42.652Z"}
+{"took":0.035,"level":"silly","message":"[server:app:boot] took: 0.035 second(s)","timestamp":"2020-11-16T19:29:42.684Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T19:29:42.694Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T19:31:52.960Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T19:31:52.961Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T19:31:53.227Z"}
+{"took":0.002,"level":"silly","message":"[server:settings/express/configure] took: 0.002 second(s)","timestamp":"2020-11-16T19:31:53.229Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T19:31:57.689Z"}
+{"took":0.004,"level":"silly","message":"[server:settings:routes:configure] took: 0.004 second(s)","timestamp":"2020-11-16T19:31:57.692Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T19:31:57.729Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T19:31:57.729Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T19:31:57.733Z"}
+{"took":0.04,"level":"silly","message":"[server:app:boot] took: 0.04 second(s)","timestamp":"2020-11-16T19:31:57.769Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T19:31:57.779Z"}
+{"level":"silly","message":"[server:settings/database:configure] started","timestamp":"2020-11-16T19:34:19.105Z"}
+{"url":"mongodb://127.0.0.1:27017/mr&mrs-apis","database":"mr&mrs-apis","level":"info","message":"[server:settings/database:configure] connecting to","timestamp":"2020-11-16T19:34:19.106Z"}
+{"level":"silly","message":"[server:settings/express/configure] started","timestamp":"2020-11-16T19:34:19.413Z"}
+{"took":0.002,"level":"silly","message":"[server:settings/express/configure] took: 0.002 second(s)","timestamp":"2020-11-16T19:34:19.415Z"}
+{"level":"silly","message":"[server:settings:routes:configure] started","timestamp":"2020-11-16T19:34:24.262Z"}
+{"took":0.004,"level":"silly","message":"[server:settings:routes:configure] took: 0.004 second(s)","timestamp":"2020-11-16T19:34:24.265Z"}
+{"level":"silly","message":"[server:app:boot] started","timestamp":"2020-11-16T19:34:24.300Z"}
+{"level":"info","message":"[server:app:boot] environment:  undefined","timestamp":"2020-11-16T19:34:24.301Z"}
+{"level":"info","message":"[server:app:boot] starting server ...","timestamp":"2020-11-16T19:34:24.304Z"}
+{"took":0.037,"level":"silly","message":"[server:app:boot] took: 0.037 second(s)","timestamp":"2020-11-16T19:34:24.337Z"}
+{"level":"info","message":"[server:settings/database:configure] DB Connected","timestamp":"2020-11-16T19:34:24.346Z"}

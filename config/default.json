@@ -1,0 +1,44 @@
+{
+    "db": {
+        "url": "mongodb://127.0.0.1:27017/mr&mrs-apis",
+        "database": "mr&mrs-apis"
+    },
+
+    "app": {
+        "url": "http://localhost",
+        "port": 3000
+    },
+    "webServer": {
+        "url": "http://localhost",
+        "port": 3000
+    },
+    "auth": {
+        "jwtKey": "supersecret"
+    },
+    "providers": {
+        
+        "file-store": {
+            "dir": "public/files/images",
+            "root": "http://localhost:3000/files/images"
+        }
+    },
+    "logger": {
+        "logStart": false,
+        "file": {
+            "filename": "logs/logs.json",
+            "level": "silly",
+            "handleExceptions": true,
+            "json": true,
+            "maxsize": 512000,
+            "maxFiles": 5,
+            "colorize": false
+        },
+        "console": {
+            "level": "debug",
+            "handleExceptions": true,
+            "json": false,
+            "colorize": true
+        },
+        "http": {}
+    }
+}
